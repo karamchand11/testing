@@ -1,5 +1,5 @@
 #!/bin/bash
-a=3
+a=5
 if [ $a -gt 4 ]
 then 
 echo "A is grater"
